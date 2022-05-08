@@ -38,6 +38,6 @@ if __name__ == '__main__':
 
     app = Application()
 
-    app.master.title('La aplicacion muestra dos')
+    app.master.title('La aplicacion muestra dos cambio de otro usuario')
 
     app.mainloop()
